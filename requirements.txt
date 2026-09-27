@@ -1,8 +1,8 @@
-Flask==2.3.3
-ultralytics==8.0.196
-opencv-python==4.8.1.78
-Pillow==10.0.1
-numpy==1.24.3
-Werkzeug==2.3.7
-torch>=1.13.0
-torchvision>=0.14.0
+Flask
+ultralytics
+torch
+torchvision
+opencv-python-headless
+Pillow
+werkzeug
+gunicorn
